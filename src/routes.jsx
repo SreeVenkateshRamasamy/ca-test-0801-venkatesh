@@ -24,7 +24,7 @@ const ApplicationRoutes = () => {
           <Channels linkToWelcome={match.url} />
         </Route>
         <Route path={`${match.path}/shopping-lists`}>
-          <ShoppingLists linkToWelcome={match.url} />
+          <ShoppingLists />
         </Route>
         <Route>
           <Welcome />

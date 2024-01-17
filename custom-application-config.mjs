@@ -12,8 +12,8 @@ const config = {
       initialProjectKey: 'ca-test-0801-venkatesh',
     },
     production: {
-      applicationId: 'TODO',
-      url: 'https://your_app_hostname.com',
+      applicationId: 'clrg7sme50066b4khm4ru793f',
+      url: 'https://ca-test-0801-venkatesh.vercel.app',
     },
   },
   oAuthScopes: {
